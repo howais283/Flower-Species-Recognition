@@ -18,7 +18,7 @@ The goal of this project is to demonstrate practical image classification using 
 - **Layers**: Convolutional layers with ReLU activation, MaxPooling, Dropout, Fully Connected (Dense) layers, and Softmax output
 - **Optimizer**: Adam
 - **Loss Function**: Categorical Crossentropy
-- **Evaluation**: Accuracy, Confusion Matrix, Training/Validation Loss Curves
+- **Evaluation**: Accuracy, Training/Validation Loss Curves
 
 ---
 
@@ -28,8 +28,7 @@ The final trained model achieved high classification accuracy on the validation 
 
 Visual outputs include:
 - Training vs. validation accuracy/loss plots
-- Sample image predictions
-- Confusion matrix
+- Impact of Hyperparameter Tuning 
 
 ---
 
@@ -37,7 +36,7 @@ Visual outputs include:
 
 - `notebooks/`: Jupyter notebooks for preprocessing, model training, evaluation
 - `dataset/`: Dataset information and download links
-- `reports/`: Reports or presentation material
+- `reports/`:  Final report with problem statement, methodology, and results
 
 ---
 
